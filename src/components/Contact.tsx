@@ -84,7 +84,6 @@ export default function Contact() {
                 With hands-on experience in machine learning, web development, and business
                 analytics, I'm always exploring innovative ways to bridge technology and strategy.
               </p>
-              <button
                 <a
                   href="/resume.pdf"
                   download="Kushal_Gupta_Resume.pdf"
@@ -93,7 +92,6 @@ export default function Contact() {
                   <Download size={20} />
                   <span>Download Resume</span>
                 </a>
-              </button>
             </div>
           </div>
 
