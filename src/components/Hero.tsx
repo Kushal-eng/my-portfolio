@@ -32,7 +32,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="https://github.com/kotra-kushal-gupta"
+            href="https://github.com/Kushal-eng"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 border border-pink-400 rounded-lg font-semibold hover:bg-pink-400/10 transition-colors"
@@ -59,7 +59,7 @@ export default function Hero() {
             <Linkedin size={24} />
           </a>
           <a
-            href="https://github.com/kotra-kushal-gupta"
+            href="https://github.com/Kushal-eng"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-pink-400 transition-colors"
