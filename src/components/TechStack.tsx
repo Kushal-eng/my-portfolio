@@ -1,6 +1,57 @@
 export default function TechStack() {
   const techCategories = [
     {
+      title: 'Languages & Frameworks',
+      color: 'from-yellow-500 to-orange-600',
+      techs: [
+        {
+          name: 'Python',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
+          description: 'High-level programming language for general-purpose development'
+        },
+        {
+          name: 'JavaScript',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
+          description: 'Programming language for web development'
+        },
+        {
+          name: 'TypeScript',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg',
+          description: 'Typed superset of JavaScript for scalable applications'
+        },
+        {
+          name: 'Streamlit',
+          image: 'https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png',
+          description: 'Python framework for creating data apps'
+        },
+        {
+          name: 'FastAPI',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg',
+          description: 'High-performance Python web framework for APIs'
+        },
+        {
+          name: 'React.js',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg',
+          description: 'JavaScript library for building UIs'
+        },
+        {
+          name: 'Express.js',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg',
+          description: 'Minimalist web framework for Node.js'
+        },
+        {
+          name: 'Tailwind CSS',
+          image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
+          description: 'Utility-first CSS framework'
+        },
+        {
+          name: 'shadcn',
+          image: 'https://avatars.githubusercontent.com/u/139895814?s=200&v=4',
+          description: 'UI component library for React'
+        },
+      ],
+    },
+    {
       title: 'AI & ML',
       color: 'from-pink-500 to-purple-600',
       techs: [
