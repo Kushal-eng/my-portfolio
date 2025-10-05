@@ -85,11 +85,14 @@ export default function Contact() {
                 analytics, I'm always exploring innovative ways to bridge technology and strategy.
               </p>
               <button
-                onClick={() => window.open('https://www.linkedin.com/in/kotra-kushal-gupta', '_blank')}
-                className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-pink-500 to-purple-600 rounded-lg font-semibold hover:scale-105 transition-transform w-full justify-center"
-              >
-                <Download size={20} />
-                <span>Download Resume</span>
+                <a
+                  href="/resume.pdf"
+                  download="Kushal_Gupta_Resume.pdf"
+                  className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-pink-500 to-purple-600 rounded-lg font-semibold hover:scale-105 transition-transform w-full justify-center"
+                >
+                  <Download size={20} />
+                  <span>Download Resume</span>
+                </a>
               </button>
             </div>
           </div>
