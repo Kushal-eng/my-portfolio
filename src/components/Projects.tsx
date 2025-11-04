@@ -2,18 +2,7 @@ import { ExternalLink } from 'lucide-react';
 
 export default function Projects() {
   const projects = [
-    {
-      title: 'Diabetes Predictor Dashboard',
-      description: 'A machine learning-based prediction model for early diabetes detection using supervised classification models to identify Type 1, Type 2, or Pre-diabetes risk.',
-      tech: ['Python', 'Machine Learning', 'Streamlit', 'Seaborn', 'Matplotlib'],
-      link: 'https://diabetrack.streamlit.app/',
-      features: [
-        'Predictive dashboard with ML models',
-        'Visual insights and correlations',
-        'Real-time data input interface',
-        'Early intervention strategies',
-      ],
-    },
+
     {
       title: 'Nutriency Deficiency Tracker',
       description: 'Interactive Streamlit dashboard identifying potential nutrient deficiencies based on Indian food habits with real-time dietary data integration.',
@@ -26,6 +15,31 @@ export default function Projects() {
         'User-friendly health interface',
       ],
     },
+    {
+      title: 'Student Skill Swap Platform',
+      description: 'A peer-to-peer learning system where students exchange skills instead of money, enabling collaborative knowledge sharing and practical learning with a structured database-driven backend.',
+      tech: ['MySQL', 'Streamlit', 'Python', 'SQL Joins', 'Database Design'],
+      link: '#',
+      features: [
+        'Skill-based matching system',
+        'Student profiles with teach/learn tags',
+        'Swap request & session tracking',
+        'Feedback & rating mechanism',
+      ],
+    },
+    {
+      title: 'Diabetes Predictor Dashboard',
+      description: 'A machine learning-based prediction model for early diabetes detection using supervised classification models to identify Type 1, Type 2, or Pre-diabetes risk.',
+      tech: ['Python', 'Machine Learning', 'Streamlit', 'Seaborn', 'Matplotlib'],
+      link: 'https://diabetrack.streamlit.app/',
+      features: [
+        'Predictive dashboard with ML models',
+        'Visual insights and correlations',
+        'Real-time data input interface',
+        'Early intervention strategies',
+      ],
+    },
+
   ];
 
   return (
