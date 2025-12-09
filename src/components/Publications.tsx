@@ -59,6 +59,9 @@ export default function Publications() {
   };
 
   const certifications = [
+    'AI For Everyone'
+    'Project Management: The Basics for Success'
+    'SQL: A Practical Introduction for Querying Databases'
     'Organizational Behavior: How to Manage People',
     'Basics of Cost Accounting: Product Costing',
     'Macroeconomics for Business Management',
