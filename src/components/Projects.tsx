@@ -25,8 +25,22 @@ export default function Projects() {
         'Student profiles with teach/learn tags',
         'Swap request & session tracking',
         'Feedback & rating mechanism',
+      ], 
+    },
+    {
+      title: 'AI Readiness & Initiative Recommendation Platform',
+      description: 'A strategic decision-support tool that analyzes an organization’s AI maturity and recommends tailored AI initiatives based on industry context, readiness level, and operational pain points. Designed to simulate real-world AI strategy evaluation and prioritization.',
+      tech: ['Python', 'Streamlit', 'Pandas', 'Altair', 'Data Modeling'],
+      link: 'https://ai-readiness-initiative-recommendation-platform.streamlit.app/',
+      features: [
+        'AI readiness scoring model based on leadership support, automation, budget, and maturity',
+        'Company segmentation into Low/Medium/High readiness tiers',
+        'AI initiative recommendation engine mapped to industry and business pain',
+        'Support for uploading external datasets for personalized assessment',
+        'Strategic insights panel summarizing trends and GTM focus opportunities'
       ],
     },
+
     {
       title: 'Diabetes Predictor Dashboard',
       description: 'A machine learning-based prediction model for early diabetes detection using supervised classification models to identify Type 1, Type 2, or Pre-diabetes risk.',
