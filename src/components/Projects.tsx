@@ -27,7 +27,7 @@ export default function Projects() {
        'Fallback logic to redirect parcel to security if needed',
        'Confirmation-based parcel placement verification',
      ],
-    }
+    },
     {
       title: 'Student Skill Swap Platform',
       description: 'A peer-to-peer learning system where students exchange skills instead of money, enabling collaborative knowledge sharing and practical learning with a structured database-driven backend.',
