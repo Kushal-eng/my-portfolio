@@ -74,7 +74,7 @@ export default function Publications() {
     {
       role: 'President – Vichar Club, IIC',
       org: 'Woxsen University',
-      period: '2024–205',
+      period: '2024–2025',
       responsibilities: [
         'Leading club operations and innovation-based workshops',
         'Enhancing industry-student collaboration',
