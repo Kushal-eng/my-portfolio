@@ -16,6 +16,19 @@ export default function Projects() {
       ],
     },
     {
+      title: 'AI Parcel Reception Voice Agent',
+      description: 'Inbound AI voice assistant that answers courier delivery calls and provides clear, step-by-step parcel drop instructions with intelligent fallback handling.',
+      tech: ['Reteel AI', 'Make.com', 'Voice AI', 'Prompt Engineering', 'Automation'],
+      features: [
+       'Autonomously answers inbound courier delivery calls',
+       'Step-by-step voice instructions to avoid caller confusion',
+       'Location-aware conversational flow (inside vs outside premises)',
+       'Intent handling and instruction repetition for clarity',
+       'Fallback logic to redirect parcel to security if needed',
+       'Confirmation-based parcel placement verification',
+     ],
+    }
+    {
       title: 'Student Skill Swap Platform',
       description: 'A peer-to-peer learning system where students exchange skills instead of money, enabling collaborative knowledge sharing and practical learning with a structured database-driven backend.',
       tech: ['MySQL', 'Streamlit', 'Python', 'SQL Joins', 'Database Design'],
