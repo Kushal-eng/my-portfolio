@@ -74,7 +74,7 @@ export default function Publications() {
     {
       role: 'President – Vichar Club, IIC',
       org: 'Woxsen University',
-      period: '2024–Present',
+      period: '2024–205',
       responsibilities: [
         'Leading club operations and innovation-based workshops',
         'Enhancing industry-student collaboration',
@@ -83,7 +83,7 @@ export default function Publications() {
     {
       role: 'Student Representative – School of Business',
       org: 'Trade Tower',
-      period: '2024–Present',
+      period: '2024–2025',
       responsibilities: [
         'Representing students and resolving issues',
         'Coordinating communication between faculty and students',
@@ -92,7 +92,7 @@ export default function Publications() {
     {
       role: 'Class Representative',
       org: 'Woxsen University',
-      period: '2023–Present',
+      period: '2023–2025',
       responsibilities: [
         'Liaising between faculty and peers',
         'Organizing academic initiatives',
